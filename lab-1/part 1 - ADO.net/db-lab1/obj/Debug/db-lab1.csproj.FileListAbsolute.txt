@@ -1,7 +1,0 @@
-C:\Users\Bianca Botezatu\Desktop\BdD\db-lab1\db-lab1\bin\Debug\db-lab1.exe.config
-C:\Users\Bianca Botezatu\Desktop\BdD\db-lab1\db-lab1\bin\Debug\db-lab1.exe
-C:\Users\Bianca Botezatu\Desktop\BdD\db-lab1\db-lab1\bin\Debug\db-lab1.pdb
-C:\Users\Bianca Botezatu\Desktop\BdD\db-lab1\db-lab1\obj\Debug\db-lab1.csproj.AssemblyReference.cache
-C:\Users\Bianca Botezatu\Desktop\BdD\db-lab1\db-lab1\obj\Debug\db-lab1.csproj.CoreCompileInputs.cache
-C:\Users\Bianca Botezatu\Desktop\BdD\db-lab1\db-lab1\obj\Debug\db-lab1.exe
-C:\Users\Bianca Botezatu\Desktop\BdD\db-lab1\db-lab1\obj\Debug\db-lab1.pdb
